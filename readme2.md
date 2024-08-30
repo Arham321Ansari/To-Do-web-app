@@ -1,0 +1,1 @@
+useEffect() : this method is use for doing query with the local storage of a web browser
